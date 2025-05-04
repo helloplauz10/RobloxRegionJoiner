@@ -6,7 +6,9 @@ requests
 
 ## Usage
 Put your .ROBLOSECURITY cookie into a file named "cookie.txt" then run:
-``python3 regionjoiner.py placeId [--ignore_insufficient]``
+```
+python3 regionjoiner.py placeId [--ignore_insufficient]
+```
 
 ## Credits
 https://devforum.roblox.com/t/get-jobidgamejoinattemptid-of-a-game-using-the-api/2312602/3 (GameJoin request code)
