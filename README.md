@@ -5,6 +5,11 @@ Lets you join a server with the desired region you picked.
 requests
 
 ## Usage
+Clone this repository 
+```
+git clone https://github.com/helloplauz10/RobloxRegionJoiner
+```
+
 Put your .ROBLOSECURITY cookie into a file named "cookie.txt" then run:
 ```
 python3 regionjoiner.py placeId [--ignore_insufficient]
